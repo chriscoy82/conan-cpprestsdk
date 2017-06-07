@@ -11,7 +11,7 @@ class CppRestsdkConan(ConanFile):
     url = 'https://github.com/BleuGamer/conan-cpprestsdk'
     settings = 'os', 'compiler', 'build_type', 'arch'
     options = {'shared': [True, False]}
-    default_options = 'shared=True'
+    default_options = 'shared=False'
     exports = 'CMakeLists.txt'
     generators = 'cmake'
     requires = ('Boost/1.59.0@lasote/stable',
