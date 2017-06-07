@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for Microsoft's [C++ REST SDK](https://github.com/Microsoft/cpprestsdk)
 
-The packages generated with this **conanfile** can be found in [conan.io](https://conan.io/source/CppRestSdk/2.8.0/ViaviSolutions/stable).
+The packages generated with this **conanfile** can be found in [conan.io](https://conan.io/source/CppRestSdk/2.9.0/BleuGamer/stable).
 
 ## Build packages
 
